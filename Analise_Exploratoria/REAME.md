@@ -48,21 +48,22 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 
 **1. Qual o país com o melhor vinho**  
 Se considerarmos a média de pontos, teremos num top 5:
-* Inglaterra
-* Índia
-* Áustria
-* Alemanha
-* Canadá
+* Inglaterra (média de 91,55 pontos)
+* Índia (média de 90,22 pontos)
+* Áustria (média de 90,19 pontos)
+* Alemanha (média de 89.84 pontos)
+* Canadá (média de 89.38 pontos)
 
 Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista.  
-Por outro lado, selecionando apenas países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
+Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
 * EUA (5.789 vinhos com pontuação acima de 93)
-* França ()
-* Itália ()
-* Áustria ()
-* Portugal ()
+* França (2.161 vinhos com pontuação acima de 93)
+* Itália (1.541 vinhos com pontuação acima de 93)
+* Áustria (487 vinhos com pontuação acima de 93)
+* Portugal (468 vinhos com pontuação acima de 93)
   
-  
+  ![image](https://github.com/user-attachments/assets/4afc5291-d918-4f84-878d-f212aab6bbb6)
+
 **2. Relação Preço x Qualidade do vinho**  
 O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
 
