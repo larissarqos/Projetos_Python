@@ -13,7 +13,6 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 
 ## Estrutura do Projeto
 ### 1. Banco de dados
-
 | Coluna | Descrição |
 |--------|-----------|
 | unnamed | Índice |
@@ -31,10 +30,9 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 | variety | Tipo de uva utilizada na fabricação do vinho |
 | winery | Adega onde o vinho foi feito |
 
-### 2. Classificação dos vinhos
-
 <br>
 
+### 2. Classificação dos vinhos
 | Pontuação | Classificação |
 |-----------|---------------|
 | 98-100 | Classic |
