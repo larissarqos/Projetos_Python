@@ -52,16 +52,16 @@ Se considerarmos a média de pontos, teremos num top 5:
 * Inglaterra (média de 91,55 pontos)
 * Índia (média de 90,22 pontos)
 * Áustria (média de 90,19 pontos)
-* Alemanha (média de 89.84 pontos)
-* Canadá (média de 89.38 pontos)
+* Alemanha (média de 89,84 pontos)
+* Canadá (média de 89,38 pontos)
 
 Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista.  
 Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
-* EUA (5.789 vinhos com pontuação acima de 93)
-* França (2.161 vinhos com pontuação acima de 93)
-* Itália (1.541 vinhos com pontuação acima de 93)
-* Áustria (487 vinhos com pontuação acima de 93)
-* Portugal (468 vinhos com pontuação acima de 93)
+* EUA      (5.789 vinhos com pontuação acima de 93)
+* França   (2.161 vinhos com pontuação acima de 93)
+* Itália   (1.541 vinhos com pontuação acima de 93)
+* Áustria  (  487 vinhos com pontuação acima de 93)
+* Portugal (  468 vinhos com pontuação acima de 93)
 
 **2. Qual a distribuição dos preços dos vinhos?**  
 A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, conforme gráfico:
@@ -87,10 +87,9 @@ Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende 
 
 **4. Tipo de uva x Qualidade do vinho**  
 Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 melhores tipo são Syrah, Pinot Noir e Nebiollo.
-https://github.com/user-attachments/assets/65bcf94f-8eb2-4576-ba20-2dd4a40d77f4
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/65bcf94f-8eb2-4576-ba20-2dd4a40d77f4" width="600px" height="300" alt="Tipo de uva x Qualidade do vinho" />
+  <img src="https://github.com/user-attachments/assets/65bcf94f-8eb2-4576-ba20-2dd4a40d77f4" width="300px" height="600" alt="Tipo de uva x Qualidade do vinho" />
 </div>
 
 **5. Melhores vinhos por faixa de preço**  
