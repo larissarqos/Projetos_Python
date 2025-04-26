@@ -89,7 +89,7 @@ Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende 
 Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 melhores tipo são Syrah, Pinot Noir e Nebiollo.
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/65bcf94f-8eb2-4576-ba20-2dd4a40d77f4" width="500px" height="600" alt="Tipo de uva x Qualidade do vinho" />
+  <img src="https://github.com/user-attachments/assets/67746695-11ae-44a5-aded-3e093a9aa764" width="450px" height="550" alt="Tipo de uva x Qualidade do vinho" />
 </div>
 
 **5. Melhores vinhos por faixa de preço**  
