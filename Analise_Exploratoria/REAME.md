@@ -66,7 +66,7 @@ Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou 
 **2. Qual a distribuição dos preços dos vinhos**  
 A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares. 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/e37cc734-ea2b-4e83-860c-70407ff38049" width="300px" height="100" alt="Distribuição dos preços dos vinhos" />
+  <img src="https://github.com/user-attachments/assets/e37cc734-ea2b-4e83-860c-70407ff38049" width="900px" height="300" alt="Distribuição dos preços dos vinhos" />
 </div>
 
 A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo
