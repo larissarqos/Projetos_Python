@@ -31,7 +31,9 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 | variety | Tipo de uva utilizada na fabricação do vinho |
 | winery | Adega onde o vinho foi feito |
 
-### 2. Classifificação dos vinhos
+### 2. Classificação dos vinhos
+
+<br>
 
 | Pontuação | Classificação |
 |-----------|---------------|
@@ -47,8 +49,18 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 ### 3. Respondendo às perguntas da análise
 
 **1. Qual o país com o melhor vinho**  
-Se considerarmos a média de pontos, Inglaterra, Índia, Áustria, Alemanha e Canadá encabeçam a lista, mas isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima.
-Por outro lado, selecionando apenas países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos 
+Se considerarmos a média de pontos, teremos num top 5:
+* Inglaterra
+* Índia
+* Áustria
+* Alemanha
+* Canadá
+Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista.
+Por outro lado, selecionando apenas países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
+* EUA
+* França
+* Portugal
+*  
   
 **2. Relação Preço x Qualidade do vinho**  
 O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
