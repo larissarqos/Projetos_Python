@@ -93,5 +93,13 @@ Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 m
 </div>
 
 **5. Melhores vinhos por faixa de preço**  
-De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+É possível encontrar vinhos Superb (94-97 dólares) por até 15 dólares e vinhos Classic por até 50 dólares. A tabela abaixo possui as garrafas de vinho de maior pontuação, por cada faixa de preço:
+
+Faixa de Preço | Preço | Pontuação | País | Vinho | Tipo de Uva |
+|--------------|-------|-----------|------|-------|-------------|
+| Até $15          | $14  |  94 | Espanha | Osborne NV Pedro Ximenez 1827 Sweet Sherry        | Sherry                   |
+| Entre $15 e $30  | $20  |  96 | EUA     | Rulo 2007 Syrah (Columbia Valley (WA)             | Syrah                    |
+| Entre $30 e $50  | $44  |  99 | EUA     | Estate Vineyard Chardonnay (Sonoma...)            | Chardonnay               |
+| Entre $50 e $100 | $80  | 100 | EUA     | Charles Smith 2006 Royal City Syrah (Columbia...) | Syrah                    |
+| Acima de $100    | $150 | 100 | França  | Château Léoville Barton 2010 Saint-Julien         | Bordeaux-style Red Blend |
 
