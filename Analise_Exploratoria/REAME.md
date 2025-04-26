@@ -47,7 +47,7 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 
 ### 3. Respondendo às perguntas da análise
 
-**1. Qual o país com o melhor vinho**  
+**1. Qual o país com o melhor vinho?**  
 Se considerarmos a média de pontos, teremos num top 5:
 * Inglaterra (média de 91,55 pontos)
 * Índia (média de 90,22 pontos)
@@ -63,13 +63,13 @@ Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou 
 * Áustria (487 vinhos com pontuação acima de 93)
 * Portugal (468 vinhos com pontuação acima de 93)
 
-**2. Qual a distribuição dos preços dos vinhos**  
-A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares. 
+**2. Qual a distribuição dos preços dos vinhos?**  
+A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, conforme gráfico:
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e37cc734-ea2b-4e83-860c-70407ff38049" width="800px" height="300" alt="Distribuição dos preços dos vinhos" />
 </div>
 
-A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo
+A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo:
 | País Vinhos Mais Caros | País Vinhos Mais Baratos |
 |------------------------|--------------------------|
 | Suíça      | Bugária              |
@@ -79,7 +79,10 @@ A relação de preço médio por país, de vinhos mais caros e mais baratos, é 
 | Hungria    | Ucrânia              |
 
 **3. Relação Preço x Qualidade do vinho**  
-Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
+Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende a ser sua qualidade, embora tenha sido possível encontrar vinhos mais baratos com boas avaliações também.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fcc043fe-7894-490f-8a6b-619ce5950527" width="600px" height="300" alt="Relação Preço x Qualidade do vinho" />
 
 **4. Tipos de uva x Qualidade do vinho**  
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
