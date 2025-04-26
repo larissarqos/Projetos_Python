@@ -54,12 +54,14 @@ Se considerarmos a média de pontos, teremos num top 5:
 * Alemanha
 * Canadá
 
-Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista
+Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista.  
 Por outro lado, selecionando apenas países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
-* EUA
-* França
-* Portugal
-*  
+* EUA (5.789 vinhos com pontuação acima de 93)
+* França ()
+* Itália ()
+* Áustria ()
+* Portugal ()
+  
   
 **2. Relação Preço x Qualidade do vinho**  
 O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
