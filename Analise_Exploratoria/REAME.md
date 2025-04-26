@@ -69,6 +69,8 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
   <img src="https://github.com/user-attachments/assets/e37cc734-ea2b-4e83-860c-70407ff38049" width="800px" height="300" alt="Distribuição dos preços dos vinhos" />
 </div>
 
+<br>
+
 A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo:
 | País Vinhos Mais Caros | País Vinhos Mais Baratos |
 |------------------------|--------------------------|
@@ -85,12 +87,16 @@ Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende 
   <img src="https://github.com/user-attachments/assets/fcc043fe-7894-490f-8a6b-619ce5950527" width="600px" height="300" alt="Relação Preço x Qualidade do vinho" />
 </div>
 
+<br>
+
 **4. Tipo de uva x Qualidade do vinho**  
 Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 melhores tipo são Syrah, Pinot Noir e Nebiollo.
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/67746695-11ae-44a5-aded-3e093a9aa764" width="500px" height="550" alt="Tipo de uva x Qualidade do vinho" />
 </div>
+
+<br>
 
 **5. Melhores vinhos por faixa de preço**  
 É possível encontrar vinhos Superb (94-97 dólares) por até 15 dólares e vinhos Classic por até 50 dólares. A tabela abaixo possui as garrafas de vinho de maior pontuação, por cada faixa de preço:
