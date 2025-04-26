@@ -7,6 +7,7 @@ Nesse projeto, faremos uma análise exploratória de um dataset sobre vinhos, co
 Nossa análise exploratória visa identificar os seguintes pontos:
 
 * Qual o país com o melhor vinho
+* Qual a distribuição dos preços dos vinhos
 * Relação Preço x Qualidade do vinho
 * Tipos de uva x Qualidade do vinho
 * Melhores vinhos por faixa de preço
@@ -61,24 +62,28 @@ Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou 
 * Itália (1.541 vinhos com pontuação acima de 93)
 * Áustria (487 vinhos com pontuação acima de 93)
 * Portugal (468 vinhos com pontuação acima de 93)
-  
-  ![image](https://github.com/user-attachments/assets/4afc5291-d918-4f84-878d-f212aab6bbb6)
 
-**2. Relação Preço x Qualidade do vinho**  
-O produto que conta com mais assinantes é o **Magic Box, 35% do total de assinaturas**. Considerando o impacto dos serviços no faturamento, temos:
+**2. Qual a distribuição dos preços dos vinhos**  
+A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares. 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fa0ff54d-499a-4baf-b19f-4e69f5eff606" alt="Distribuição dos preços dos vinhos" />
+</div>
 
-| Serviço     | Valor da Assinatura | Total de Assinaturas | Faturamento     |
-|:-----------:|:-------------------:|:---------------------:|:---------------:|
-| Deluxe Box  | R$35,90             | 168                   | R$6.031,20      |
-| Magic Box   | R$9,90              | 266                   | R$2.633,40      |
-| Premium X   | R$79,90             | 136                   | R$10.866,40     |
-| Safe Watch  | R$29,90             | 232                   | R$6.936,80      |
-| **Total**   | --                  | **802**               | **R$26.467,80** |
+A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo
+| País Vinhos Mais Caros | País Vinhos Mais Baratos |
+|------------------------|--------------------------|
+| Suíça      | Bugária              |
+| Inglaterra | Armênia              |
+| Alemanha   | Índia                |
+| França     | Bósnia e Herzegovina |
+| Hungria    | Ucrânia              |
 
-A maioria dos clientes possui nossos serviços mais baratos. Notamos que, apesar de contar com o maior número de assinaturas, Magic Box é o produto com menor impacto no faturamento.
-
-**3. Tipos de uva x Qualidade do vinho**  
+**3. Relação Preço x Qualidade do vinho**  
 Atualmente, contamos com **802 assinantes**. Considerando o estado em que moram, a maior parte deles é do **Rio Grande do Sul (51%)**, seguido do **Paraná (27%)** e **Santa Catarina (22%)**. De acordo com o gênero e faixa etária, a maior parte dos nosso clientes é do **sexo masculino**. A faixa etária predominante é de **35-44 e 54-70, para ambos os sexos**.
 
-**4. Melhores vinhos por faixa de preço**  
+**4. Tipos de uva x Qualidade do vinho**  
 De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+
+**5. Melhores vinhos por faixa de preço**  
+De maneira geral, nossos serviços têm boas avaliações a respeito do produto e atendimento. As principais reclamações são sobre a falta de itens e atraso na entrega.
+
