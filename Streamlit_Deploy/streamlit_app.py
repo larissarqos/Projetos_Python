@@ -25,6 +25,10 @@ with st.expander('y'):
   y = df.species
   y
 
+# Encode
+encode = ['island', 'gender']
+df_penguins = pd.get_dummies(input_penguins, prefix=encode)
+
 # Criando gráfico
 with st.expander('Visualização dos dados'):
   st.scatter_chart(data=df, x='bill_length_mm', y='body_mass_g', color='species')
