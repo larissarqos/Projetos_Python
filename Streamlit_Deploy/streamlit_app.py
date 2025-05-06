@@ -35,7 +35,7 @@ with st.sidebar:
   island = st.selectbox('Ilha', ('Biscoe', 'Dream', 'Torgersen'))
   gender = st.selectbox('Gênero', ('male', 'female'))
   # em bill_length_mm estão os valores máximo, mínimo e médio
-  bill_length_mm = st.selectbox('Comprimento do Bico (mm)', 32.1, 59.6, 43.9)
+  bill_length_mm = st.slider('Comprimento do Bico (mm)', 32.1, 59.6, 43.9)
 
 
   
