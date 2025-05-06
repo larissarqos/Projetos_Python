@@ -24,7 +24,7 @@ st.write('**y**')
 y = df.species
 
 # Criando gráfico
-with st.expander('Visualização dos dados')
+with st.expander('Visualização dos dados'):
 st.scatter_chart(data=df, x='bill_length_mm', y='body_mass_g', color='species')
 
 
