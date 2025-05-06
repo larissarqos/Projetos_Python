@@ -50,7 +50,7 @@ with st.sidebar:
   input_df = pd.DataFrame(data, index=[0])
   input_penguins = pd.concat([input_df, X], axis=0)
 
-with st.expander('Informações inseridas neste mês'):
+with st.expander('Informações inseridas'):
   st.write('**Dados inseridos**')
   input_df
   st.write('**Dados combinados**')
