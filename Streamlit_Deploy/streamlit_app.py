@@ -16,14 +16,12 @@ with st.expander('Dados'):
 # Todos os dados, com exceção da variável target (variáveis preditoras)
 with st.expander('X'):
   st.write('**Variáveis Preditoras**')
-  st.write('**X**')
   X = df.drop('species', axis=1)
   X
 
 # Variável target
 with st.expander('y'):
   st.write('**Variável Target**')
-  st.write('**y**')
   y = df.species
   y
 
