@@ -31,7 +31,7 @@ with st.expander('Visualização dos dados'):
 
 # Preparando dados
 with st.sidebar:
-  st.header('Insira informações')
+  st.header('Insira os dados do pinguim')
   island = st.selectbox('Ilha', ('Biscoe', 'Dream', 'Torgersen'))
   gender = st.selectbox('Gênero', ('male', 'female'))
   # em bill_length_mm estão os valores máximo, mínimo e médio
