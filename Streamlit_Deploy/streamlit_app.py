@@ -29,7 +29,16 @@ with st.expander('y'):
 with st.expander('Visualização dos dados'):
   st.scatter_chart(data=df, x='bill_length_mm', y='body_mass_g', color='species')
 
+# Preparando dados
+with st.sidebar:
+  st.header('Insira informações')
+  island = st.selectbox('Ilha', ('Biscoe', 'Dream', 'Torgersen'))
+  gender = st.selectbox('Gênero', ('male', 'female'))
+  # em bill_length_mm estão os valores máximo, mínimo e médio
+  bill_length_mm = st.selectbox('Comprimento do Bico (mm)', 32.1, 59.6, 43.9)
 
+
+  
 
 
 
