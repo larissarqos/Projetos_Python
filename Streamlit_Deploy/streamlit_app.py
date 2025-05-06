@@ -13,15 +13,19 @@ with st.expander('Dados'):
   df = pd.read_csv('https://raw.githubusercontent.com/dataprofessor/data/master/penguins_cleaned.csv')
   df
 
-st.write('**X**')
+# Todos os dados, com exceção da variável target (variáveis preditoras)
+with st.expander('X'):
+  st.write('**Variáveis Preditoras**')
+  st.write('**X**')
+  X = df.drop('species', axis=1)
+  X
 
-# todos os dados, com exceção da variável target
-X = df.drop('species', axis=1)
-X
-
-# variável target
-st.write('**y**')
-y = df.species
+# Variável target
+with st.expander('y'):
+  st.write('**Variável Target**')
+  st.write('**y**')
+  y = df.species
+  y
 
 # Criando gráfico
 with st.expander('Visualização dos dados'):
