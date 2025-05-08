@@ -1,4 +1,4 @@
-<h1 align="center">Previsão de Fraudes em Empréstimos Bancários</h1>
+<h1 align="center">Análise Exploratória - Avaliação de Vinhos</h1>
 
 ## Contexto
 Nesse projeto, faremos uma análise exploratória de um dataset sobre vinhos, com informações de preço, país de origem, tipo de uva utilizado na fabricação, pontos em avaliações, dentre outras características. O foco da análise é responder às perguntas descritas no tópico Objetivos. A limpeza, tratamento e análise passo a passo se encontram em 'analise_vinho.ipynb', o foco dessa documentação são as respostas obtidas através da análise.
@@ -108,5 +108,4 @@ Faixa de Preço | Preço | Pontuação | País | Vinho | Tipo de Uva |
 | Entre $30 e $50  | $44  |  99 | EUA     | Estate Vineyard Chardonnay (Sonoma...)            | Chardonnay               |
 | Entre $50 e $100 | $80  | 100 | EUA     | Charles Smith 2006 Royal City Syrah (Columbia...) | Syrah                    |
 | Acima de $100    | $150 | 100 | França  | Château Léoville Barton 2010 Saint-Julien         | Bordeaux-style Red Blend |
-
 
