@@ -6,8 +6,9 @@
 
 <br>
 
+## Análise de dados, Modelos de Machine Learning e Automações no Python, contando com:
+
  * ### 🛠 Tratamento, limpeza e modelagem dos dados
- * ### 📊 Análise de dados, Modelos de Machine Learning e Automações
  * ### 🧩 Integração com Excel, SQL
  * ### ⚙ Deploy com Flask e Streamlit
  * ### 📑 Documentação das análises
