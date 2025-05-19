@@ -131,7 +131,7 @@ Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 m
 --
 
 #### 📌 5. Melhores vinhos por faixa de preço
-É possível encontrar vinhos Superb (94-97 dólares) por até 15 dólares e vinhos Classic por até 50 dólares. A tabela abaixo possui as garrafas de vinho de maior pontuação, por cada faixa de preço:
+É possível encontrar vinhos Superb (94-97 pontos) de até 15 dólares e vinhos Classic de até 50 dólares. A tabela abaixo possui as garrafas de vinho de maior pontuação, por cada faixa de preço:
 
 Faixa de Preço | Preço | Pontuação | País | Vinho | Tipo de Uva |
 |--------------|-------|-----------|------|-------|-------------|
