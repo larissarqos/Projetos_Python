@@ -101,17 +101,6 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
 
 <br>
 
-A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo:
-| País Vinhos Mais Caros | Valor ($) | País Vinhos Mais Baratos | Valor ($) |
-|------------------------|-----------|--------------------------|-----------|
-| Suíça      |   | Bugária              |     |
-| Inglaterra |   | Armênia              |     |
-| Alemanha   |   | Índia                |     |
-| França     |   | Bósnia e Herzegovina |     |
-| Hungria    |   | Ucrânia              |     |
-
-
-
 <table>
   <tr>
     <td>
