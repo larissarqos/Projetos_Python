@@ -25,6 +25,7 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 
 - Qual o país com o melhor vinho
 - Qual a distribuição dos preços dos vinhos
+- Identifique os vinhos mais caros e baratos, por país
 - Relação Preço x Qualidade do vinho
 - Tipos de uva x Qualidade do vinho
 - Melhores vinhos por faixa de preço
@@ -99,7 +100,10 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
   <img src="https://github.com/user-attachments/assets/e37cc734-ea2b-4e83-860c-70407ff38049" width="800px" height="300" alt="Distribuição dos preços dos vinhos" />
 </div>
 
-<br>
+--
+
+#### 📌 3. Identifique os vinhos mais caros e baratos, por país
+Os vinhos mais caros são os Suíços ($) e os mais baratos são so da Ucrânia ($).
 
 <table>
   <tr>
@@ -128,11 +132,9 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
 </tr>
 </table>
 
-
-
 --
 
-#### 📌 3. Relação Preço x Qualidade do vinho
+#### 📌 4. Relação Preço x Qualidade do vinho
 Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende a ser sua qualidade, embora tenha sido possível encontrar vinhos mais baratos com boas avaliações também.
 
 <div align="center">
@@ -141,7 +143,7 @@ Há sim relação de preço e qualidade: quanto mais caro o vinho, melhor tende 
 
 --
 
-#### 📌 4. Tipo de uva x Qualidade do vinho
+#### 📌 5. Tipo de uva x Qualidade do vinho
 Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 melhores tipo são Syrah, Pinot Noir e Nebiollo.
 
 <div align="center">
@@ -150,7 +152,7 @@ Analisando o tipo de uva por trás das melhores avaliações, obtemos que os 3 m
 
 --
 
-#### 📌 5. Melhores vinhos por faixa de preço
+#### 📌 6. Melhores vinhos por faixa de preço
 É possível encontrar vinhos Superb (94-97 pontos) de até 15 dólares e vinhos Classic de até 50 dólares. A tabela abaixo possui as garrafas de vinho de maior pontuação, por cada faixa de preço:
 
 Faixa de Preço | Preço | Pontuação | País | Vinho | Tipo de Uva |
