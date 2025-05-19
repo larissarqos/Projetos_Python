@@ -110,6 +110,37 @@ A relação de preço médio por país, de vinhos mais caros e mais baratos, é 
 | França     |   | Bósnia e Herzegovina |     |
 | Hungria    |   | Ucrânia              |     |
 
+
+
+<table>
+  <tr>
+    <td>
+  
+| País Vinho Mais Caro | Preço (em dólar) |
+|----------------------|------------------|
+| Suíça      | $  |
+| Inglaterra | $  |
+| Alemanha   | $  |
+| França     | $  |
+| Hungria    | $  |
+
+</td>
+<td>
+
+| País Vinho Mais Barato | Preço (em dólar) |
+|------------------------|------------------|
+| Bugária              | $  |
+| Armênia              | $  |
+| Índia                | $  |
+| Bósnia e Herzegovina | $  |
+| Ucrânia              | $  |
+
+</td>
+</tr>
+</table>
+
+
+
 --
 
 #### 📌 3. Relação Preço x Qualidade do vinho
