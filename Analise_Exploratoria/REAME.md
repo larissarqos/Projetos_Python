@@ -103,13 +103,13 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
 --
 
 #### 📌 3. Identifique os vinhos mais caros e baratos, por país
-Os vinhos mais caros são os Suíços ($) e os mais baratos são so da Ucrânia ($).
+Os vinhos mais caros são os Suíços (média de y dólares) e os mais baratos são so da Ucrânia (média de x dólares).
 
 <table>
   <tr>
     <td>
   
-| País Vinho Mais Caro | Preço (em dólar) |
+| País Vinho Mais Caro | Média de Preço (em dólar) |
 |----------------------|------------------|
 | Suíça      | $  |
 | Inglaterra | $  |
@@ -120,7 +120,7 @@ Os vinhos mais caros são os Suíços ($) e os mais baratos são so da Ucrânia 
 </td>
 <td>
 
-| País Vinho Mais Barato | Preço (em dólar) |
+| País Vinho Mais Barato | Média de Preço (em dólar) |
 |------------------------|------------------|
 | Bugária              | $  |
 | Armênia              | $  |
