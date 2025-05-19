@@ -1,5 +1,8 @@
 <h1 align="center">Análise Exploratória - Avaliação de Vinhos</h1>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e19ce114-9306-4fb4-a11d-bb0a49945ac6" alt="img" width="1100"/>
+
 ## Contexto
 Nesse projeto, faremos uma análise exploratória de um dataset sobre vinhos, com informações de preço, país de origem, tipo de uva utilizado na fabricação, pontos em avaliações, dentre outras características. O foco da análise é responder às perguntas descritas no tópico Objetivos. A limpeza, tratamento e análise passo a passo se encontram em 'analise_vinho.ipynb', o foco dessa documentação são as respostas obtidas através da análise.
 
