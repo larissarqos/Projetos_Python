@@ -76,19 +76,20 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 
 #### 📌 1. Qual o país com o melhor vinho?
 Se considerarmos a média de pontos, teremos num top 5:
-- Inglaterra (média de 91,55 pontos)
-- Índia (média de 90,22 pontos)
-- Áustria (média de 90,19 pontos)
-- Alemanha (média de 89,84 pontos)
-- Canadá (média de 89,38 pontos)
+- **Inglaterra -** média de 91,55 pontos
+- **Índia -** média de 90,22 pontos
+- **Áustria -** média de 90,19 pontos
+- **Alemanha -** média de 89,84 pontos
+- **Canadá -** média de 89,38 pontos
 
 Isso se dá especialmente porque são países com baixa produção de vinho, porém com boa avaliação. Ao fazermos a média, a pontuação desses países vai lá pra cima, levando-os a encabeçarem a lista.  
-Por outro lado, filtrando países cujos vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
-- EUA      (5.789 vinhos com pontuação acima de 93)
-- França   (2.161 vinhos com pontuação acima de 93)
-- Itália   (1.541 vinhos com pontuação acima de 93)
-- Áustria  (  487 vinhos com pontuação acima de 93)
-- Portugal (  468 vinhos com pontuação acima de 93)
+
+Por outro lado, filtrando países cujo total de vinhos têm pontuação acima de 93 (ou seja, estão entre Superb e Classic), nosso top 5 muda e temos:
+- **EUA -** 5.789 vinhos com pontuação acima de 93
+- **França -** 2.161 vinhos com pontuação acima de 93
+- **Itália -** 1.541 vinhos com pontuação acima de 93
+- **Áustria -** 487 vinhos com pontuação acima de 93
+- **Portugal -** 468 vinhos com pontuação acima de 93
 
 --
 
@@ -101,13 +102,13 @@ A maior parte dos vinhos avaliados estavam entre $20,00 e $50,00 dólares, confo
 <br>
 
 A relação de preço médio por país, de vinhos mais caros e mais baratos, é dada na tabela abaixo:
-| País Vinhos Mais Caros | País Vinhos Mais Baratos |
-|------------------------|--------------------------|
-| Suíça      | Bugária              |
-| Inglaterra | Armênia              |
-| Alemanha   | Índia                |
-| França     | Bósnia e Herzegovina |
-| Hungria    | Ucrânia              |
+| País Vinhos Mais Caros | Valor ($) | País Vinhos Mais Baratos | Valor ($) |
+|------------------------|-----------|--------------------------|-----------|
+| Suíça      |   | Bugária              |     |
+| Inglaterra |   | Armênia              |     |
+| Alemanha   |   | Índia                |     |
+| França     |   | Bósnia e Herzegovina |     |
+| Hungria    |   | Ucrânia              |     |
 
 --
 
