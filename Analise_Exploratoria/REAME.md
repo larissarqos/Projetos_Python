@@ -33,6 +33,7 @@ Nossa análise exploratória visa identificar os seguintes pontos:
 ***
 
 <br>
+
 ## 🧱 Estrutura do Projeto  
 
 ### 🗄 Banco de dados  
