@@ -13,7 +13,7 @@ Nesse projeto, faremos uma análise exploratória de um dataset sobre vinhos, co
 
 ## 🛠️ Ferramentas e Métodos Utilizados
 - Microsoft Excel (fonte de dados)
-- Linguagem Python (pandas, numpy, matplotlib,)
+- Linguagem Python (pandas, numpy, matplotlib, seaborn)
 - Limpeza de dados (tratamento de nulos, duplicados e outliers)
 
 ***
